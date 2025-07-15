@@ -1,1 +1,1 @@
-# Social-media-management-package-
+Social media management package details
